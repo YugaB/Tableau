@@ -1,5 +1,6 @@
 # Tableau
 Prepared dashboard for web application "SJSU Food Pantry" using Tableau
+Please find link here: https://public.tableau.com/profile/yugeshwari.brahmankar#!/
 
 ## Main Dashboard:
 shows all food zone data, department wise students count who use Food pantry and 
